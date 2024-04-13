@@ -1,0 +1,12 @@
+# Hasher
+# Made by Tom Parik (All rights reserved)
+# Github @TomParik (https://github.com/TomParik/Hasher)
+
+# The Requirements File
+# Hasher require a few libraries
+requirements/True
+
+# Libraries:
+rich/True
+pyperclip/True
+hashlib/True
