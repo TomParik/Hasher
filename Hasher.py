@@ -9,7 +9,7 @@ import os
 
 # First Start
 def start():
-       requirements = open("requirements.txt", "r")
+       requirements = open("Important/requirements.txt", "r")
        requirements = requirements.readlines()
        print(requirements[6])
        
